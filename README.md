@@ -7,8 +7,8 @@
 
  Результат работы проекта [Home Page](https://samokhindmitro.github.io/tabs-accordeon-modal-js) <br>
  Project Screen
-          
- [Show/hide Elements](screen/show-hide-block.png)
- [Accordeon](screen/accordeon.png)
- [Tabs](screen/tabs.png)
- [Modal](screen/modalWindow.png)
+
+ * [Show/hide Elements](screen/show-hide-block.png) 
+ * [Accordeon](screen/accordeon.png)
+ * [Tabs](screen/tabs.png)
+ * [Modal](screen/modalWindow.png)
